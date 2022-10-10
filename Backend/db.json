@@ -2,18 +2,18 @@
   "products": [
     {
       "id": 1,
-      "name": "Caneta BIC Preta",
+      "name": "Blue Pen",
       "price": 5.89
     },
     {
       "id": 2,
-      "name": "Notebook",
-      "price": 1590.5
+      "name": "Macbook Pro",
+      "price": 2500.00
     },
     {
       "id": 3,
-      "name": "Nespresso Coffee Machine",
-      "price": 150.00
+      "name": "Iphone",
+      "price": 1500.00
     }
   ]
 }
