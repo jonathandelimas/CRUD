@@ -19,6 +19,11 @@
       "name": "pen",
       "price": "2",
       "id": 4
+    },
+    {
+      "name": "dice",
+      "price": "50",
+      "id": 5
     }
   ]
 }
