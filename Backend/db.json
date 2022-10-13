@@ -19,6 +19,26 @@
       "name": "pen",
       "price": "2",
       "id": 4
+    },
+    {
+      "name": "phone",
+      "price": "155",
+      "id": 5
+    },
+    {
+      "name": "panela",
+      "price": "60",
+      "id": 6
+    },
+    {
+      "name": "novo",
+      "price": "222",
+      "id": 7
+    },
+    {
+      "name": "teste",
+      "price": "50",
+      "id": 8
     }
   ]
 }
