@@ -1,3 +1,6 @@
+import { Product } from './../product.model';
+import { Router } from '@angular/router';
+import { ProductService } from './../product.service';
 import { Component, OnInit } from '@angular/core';
 
 @Component({
@@ -7,9 +10,23 @@ import { Component, OnInit } from '@angular/core';
 })
 export class ProductUpdateComponent implements OnInit {
 
-  constructor() { }
+    product: Product = {
+      name: '',
+      price: null as any,
+    }
+
+  constructor(private productService: ProductService, private router: Router) { }
 
   ngOnInit(): void {
+  }
+
+  updateProduct(): void {
+
+  }
+
+  cancel(): void{
+    this.router.navigate(['/products'])
+
   }
 
 }

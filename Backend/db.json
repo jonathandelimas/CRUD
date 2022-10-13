@@ -24,6 +24,11 @@
       "name": "dice",
       "price": "50",
       "id": 5
+    },
+    {
+      "name": "tapioca",
+      "price": "5.5",
+      "id": 6
     }
   ]
 }
