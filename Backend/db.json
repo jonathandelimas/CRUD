@@ -19,16 +19,6 @@
       "name": "pen",
       "price": "2",
       "id": 4
-    },
-    {
-      "name": "dice",
-      "price": "50",
-      "id": 5
-    },
-    {
-      "name": "mug",
-      "price": "5.5",
-      "id": 6
     }
   ]
 }
