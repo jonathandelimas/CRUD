@@ -57,7 +57,7 @@ export class ProductService {
     return this.http.delete<Product>(url).pipe(
       map((obj) => obj),
       catchError((e) => this.errorHandler(e))
-    );;
+    );
   }
 
   errorHandler(e: any): Observable<any> {

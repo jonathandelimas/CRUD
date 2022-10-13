@@ -1,4 +1,3 @@
-import { HeaderData } from "./../../components/template/header/header-data.model";
 import { HeaderService } from "./../../components/template/header/header.service";
 import { Component, OnInit } from "@angular/core";
 

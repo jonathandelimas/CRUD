@@ -18,6 +18,6 @@ export class HeaderComponent implements OnInit {
     return this.headerService.headerData.icon;
   }
   get routeUrl(): string {
-    return this.headerService.headerData.title;
+    return this.headerService.headerData.routeUrl;
   }
 }
